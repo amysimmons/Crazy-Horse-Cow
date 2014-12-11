@@ -1,0 +1,25 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+p {
+	font-weight: 400;
+	font-size: 30px;
+}
+
+img {
+	display: inline-block;
+}
+
+#bubble {
+	top: 100px;
+}
+
+.bubble {
+	display: none;
+}
